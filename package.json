@@ -19,9 +19,11 @@
   "dependencies": {
     "@giphy/js-fetch-api": "^4.7.1",
     "@giphy/react-components": "^6.5.1",
+    "dotenv": "^16.0.3",
     "gatsby": "^5.2.0",
     "gatsby-plugin-s3": "^0.3.8",
     "react": "^18.2.0",
+    "react-async-hook": "^4.0.0",
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
